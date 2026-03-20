@@ -1,0 +1,13 @@
+{
+  "name": "minimatch-security-repro",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Repro for security_update_not_possible with minimatch",
+  "type": "module",
+  "dependencies": {
+    "glob": "10.4.5"
+  },
+  "overrides": {
+    "minimatch": "9.0.5"
+  }
+}
