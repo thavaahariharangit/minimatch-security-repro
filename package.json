@@ -1,11 +1,13 @@
+
 {
-"name": "minimatch-no-details-repro",
-"version": "1.0.0",
-"private": true,
-"dependencies": {
-"glob": "10.4.5"
-},
-"overrides": {
-"minimatch": "9.0.5"
-}
+  "name": "repro-no-conflict-details",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "glob": "10.4.5",
+    "minimatch": "9.0.5"
+  },
+  "overrides": {
+    "minimatch": "9.0.5"
+  }
 }
