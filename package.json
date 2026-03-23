@@ -1,13 +1,8 @@
 {
-  "name": "minimatch-security-repro",
-  "private": true,
-  "version": "1.0.0",
-  "description": "Repro for security_update_not_possible with minimatch",
-  "type": "module",
-  "dependencies": {
-    "cross-spawn": "7.0.6"
-  },
-  "overrides": {
-    "minimatch": "10.2.3"
-  }
+    "name": "minimatch-no-dependency-details-repro",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "minimatch": "9.0.5"
+    }
 }
