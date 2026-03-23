@@ -1,8 +1,8 @@
 {
-    "name": "minimatch-no-dependency-details-repro",
-    "version": "1.0.0",
-    "private": true,
-    "dependencies": {
-        "minimatch": "9.0.5"
-    }
+"name": "minimatch-no-dependency-details-repro",
+"version": "1.0.0",
+"private": true,
+"dependencies": {
+"minimatch": "9.0.5"
+}
 }
