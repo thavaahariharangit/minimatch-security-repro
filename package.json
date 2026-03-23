@@ -5,9 +5,9 @@
   "description": "Repro for security_update_not_possible with minimatch",
   "type": "module",
   "dependencies": {
-    "glob": "10.4.5"
+    "cross-spawn": "7.0.6"
   },
   "overrides": {
-    "minimatch": "9.0.5"
+    "minimatch": "10.2.3"
   }
 }
